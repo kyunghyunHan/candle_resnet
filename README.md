@@ -2,4 +2,6 @@
 
 ## ResNet
 
-- ![ResNet](ResNet.png)
+![ResNet](ResNet.png)
+
+
