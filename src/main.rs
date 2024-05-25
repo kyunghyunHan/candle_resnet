@@ -1,5 +1,10 @@
 use candle_resnet::ResNet;
+struct BasicBlock {}
+impl BasicBlock {
+    fn init() {}
 
-fn main(){
- println!("{}",1);
+    fn forawrd() {}
+}
+fn main() {
+    println!("{}", 1);
 }
